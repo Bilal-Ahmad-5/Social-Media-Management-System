@@ -125,7 +125,7 @@ Built with **Streamlit**, the dashboard includes:
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/Bilal-Ahmad-5/Social-media-Agent.git
+git clone https://github.com/Bilal-Ahmad-5/Social-Media-Sentiment-Analyzer.git
 cd Social-media-Agent
 ```
 
