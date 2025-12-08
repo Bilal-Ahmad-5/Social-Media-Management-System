@@ -1,4 +1,4 @@
-# Social Media Sentiment Analysis — Multi-Agent System
+# Social Media Management System — Multi-Agent System
 
 > A production-ready system for scraping Reddit, analyzing sentiment, extracting themes, and generating reports using a multi-agent architecture.
 
