@@ -1,4 +1,4 @@
-# 📱 Social Media Management System — Multi-Agent AI
+# 📱 Social-Media-Sentiment-Analysis — Multi-Agent AI
 
 > *Understand what the internet is saying — automatically.*
 
@@ -10,7 +10,7 @@ A multi-agent system that scrapes Reddit, analyzes sentiment, surfaces trending 
 
 ```bash
 # Clone the repo
-git clone https://github.com/Bilal-Ahmad-5/Social-Media-Management-System.git
+git clone https://github.com/Bilal-Ahmad-5/Social-Media-Sentiment-Analysis.git
 cd Social-media-Agent
 
 # Set up environment
